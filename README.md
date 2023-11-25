@@ -8,7 +8,7 @@
 
 ## Deploy: 
 
-<>
+<https://page-case.vercel.app/>
 
 ## Technologies used
 
