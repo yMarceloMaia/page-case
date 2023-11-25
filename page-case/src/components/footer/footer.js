@@ -10,6 +10,7 @@ export default function Footer() {
                     src="/lock.png"
                     width={12}
                     height={12}
+                    alt='image'
                 />
                 <p>Secure 256-Bit SSL Encryption.</p>
             </section>
